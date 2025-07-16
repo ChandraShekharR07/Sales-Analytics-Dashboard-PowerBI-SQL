@@ -22,6 +22,31 @@ An end-to-end Business Intelligence solution blending **SQL** and **Power BI**, 
 
 ---
 
+## 🧠 Problem Statement
+
+Retail teams were spending too much time generating static sales reports in Excel. The data lacked clear visuals, and profit opportunities were being overlooked. This project aims to automate reporting, uncover insights, and present data in an accessible format for all business users.
+
+---
+
+## 🔄 Project Workflow
+
+1. **Data Import & Cleaning** – Handled missing values and removed duplicates using SQL  
+2. **Data Aggregation** – Created region-, product-, and time-based metrics  
+3. **Insight Generation** – Highlighted low-margin regions and top-selling categories  
+4. **Dashboard Design** – Built interactive visuals with slicers, KPIs, and drill-throughs  
+5. **Final Output** – Shared Power BI `.pbix` file and raw `.sql` scripts
+
+---
+
+## ✅ Key Results
+
+- Built a fully functional, interactive dashboard for sales and profit insights  
+- Found West region had high sales but poor profit margins  
+- Enabled faster, smarter decision-making with automated reports  
+- Presented insights through clean, user-friendly visuals
+
+---
+
 ## 🧩 SQL Highlights
 
 - Removed nulls and duplicate entries
@@ -66,3 +91,13 @@ An end-to-end Business Intelligence solution blending **SQL** and **Power BI**, 
 - Helped reduce manual reporting time by 80%
 - Enabled category-level decisions with product performance insights
 - Offered interactive and export-ready visuals for stakeholder reporting
+
+---
+
+## 🙋‍♂️ Author
+
+**Chandra Shekhar R**  
+📍 Aspiring Data Analyst | Python & SQL Enthusiast
+
+🔗 [GitHub – ChandraShekharR07](https://github.com/ChandraShekharR07)  
+🔗 [LinkedIn – chandra-shekhar-r-434849287](https://www.linkedin.com/in/chandra-shekhar-r-434849287)
