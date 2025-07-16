@@ -30,8 +30,8 @@ An end-to-end Business Intelligence solution blending **SQL** and **Power BI**, 
 - Discovered a 12% profit growth opportunity in the West region
 - Included monthly trend aggregation for deeper business insight
 
-📄 [View SQL Queries](https://github.com/ChandraShekharR07/Sales-Analytics-Dashboard-PowerBI-SQL/blob/main/Sales%20Analysis%20SQL%20Queries.sql)  
-📄 [View SQL Queries with Output](https://github.com/ChandraShekharR07/Sales-Analytics-Dashboard-PowerBI-SQL/blob/main/Sales%20Analysis%20SQL%20Queries%20with%20Output.sql)
+📄 [View SQL Queries](https://github.com/ChandraShekharR07/Sales-Analytics-Dashboard-PowerBI-SQL/blob/main/SQL-Queries/Sales%20Analysis%20SQL%20Queries.sql)  
+📄 [View SQL Queries with Output](https://github.com/ChandraShekharR07/Sales-Analytics-Dashboard-PowerBI-SQL/blob/main/SQL-Queries/Sales%20Analysis%20SQL%20Queries%20with%20Output.sql)
 
 ---
 
