@@ -18,7 +18,7 @@ An end-to-end Business Intelligence solution blending **SQL** and **Power BI**, 
 
 - **SQL Server / SSMS** – Data cleaning, transformation, and analysis.
 - **Power BI Desktop** – Dashboard creation with interactive visuals.
-- **Dataset** – Superstore dataset from [Kaggle](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting).
+- **Dataset** – Superstore dataset from [Kaggle](https://www.kaggle.com/datasets/juhi1994/superstore).
 
 ---
 
