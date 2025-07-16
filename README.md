@@ -18,49 +18,50 @@ An end-to-end Business Intelligence solution blending **SQL** and **Power BI**, 
 
 - **SQL Server / SSMS** – Data cleaning, transformation, and analysis.
 - **Power BI Desktop** – Dashboard creation with interactive visuals.
-- **Dataset** – Superstore dataset from [Kaggle](https://www.kaggle.com/datasets/juhi1994/superstore).
+- **Dataset** – Superstore dataset from [Kaggle](https://www.kaggle.com/datasets/juhi1994/superstore)
 
 ---
 
 ## 🧩 SQL Highlights
 
-- Cleans and prepares data: removes nulls & duplicates.
-- Calculates total sales, profit, and margins by region.
-- Identifies top products, categories, and time-based trends.
-- Pinpoints a **12% profit improvement opportunity** in the West.
-- Includes monthly sales/proﬁt aggregates for trend analysis.
+- Removed nulls and duplicate entries
+- Calculated total sales, profit, and margin by region
+- Identified top-performing products and trends over time
+- Discovered a 12% profit growth opportunity in the West region
+- Included monthly trend aggregation for deeper business insight
 
-📄 [`sales_analysis_queries.sql`](./sales_analysis_queries.sql)  
-📄 [`sales_analysis_queries_with_output.sql`](./sales_analysis_queries_with_output.sql)
+📄 [View SQL Queries](https://github.com/ChandraShekharR07/Sales-Analytics-Dashboard-PowerBI-SQL/blob/main/Sales%20Analysis%20SQL%20Queries.sql)  
+📄 [View SQL Queries with Output](https://github.com/ChandraShekharR07/Sales-Analytics-Dashboard-PowerBI-SQL/blob/main/Sales%20Analysis%20SQL%20Queries%20with%20Output.sql)
 
 ---
 
 ## 💡 Power BI Dashboard Highlights
 
-- **KPI cards**: Total Sales, Total Profit & Order Count.
-- **Regional analysis**: Map, bar charts, and West region spotlight.
-- **Product & category dashboards**: Sales breakdown edge-to-edge.
-- **Monthly trend visuals**: Curious about seasonal dips or peaks? It’s here.
-- Interactive slicers: drill down by Region, Category, Segment, etc.
-- **Drill-through** to deeper product or regional insights.
-- Clean layout, export-ready format for stakeholder reporting.
+- KPI Cards: Total Sales, Total Profit, Orders Count
+- Regional and sub-category performance with heatmaps
+- Product sales breakdown with filters
+- Monthly trend visuals (line/bar charts)
+- Drill-through pages for focused analysis
+- Interactive slicers (Region, Category, Segment)
+- Clean layout for presentations or exports
 
-📊 [`superstore_sales_analysis.pbix`](./superstore_sales_analysis.pbix)
+📊 [Download Power BI Dashboard](https://github.com/ChandraShekharR07/Sales-Analytics-Dashboard-PowerBI-SQL/blob/main/End-to-End%20Sales%20Analytics%20Dashboard.pbix)
 
 ---
 
 ## 📸 Visual Previews
 
 ### 🔹 Dashboard Overview  
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](https://github.com/ChandraShekharR07/Sales-Analytics-Dashboard-PowerBI-SQL/raw/main/Images/Dashboard%20Overview.png)
 
 ### 🔹 West Region Insights  
-![West Region Insights](images/west_region_insights.png)
+![West Region Insights](https://github.com/ChandraShekharR07/Sales-Analytics-Dashboard-PowerBI-SQL/raw/main/Images/West%20Region%20Insights.png)
 
 ---
 
 ## 🎯 Business Impact
 
-- **West region** identified as high-potential — focused efforts could drive a **12% profit increase**.
-- **Top products & category insights** support marketing and inventory optimization.
-- **Time-savings**: Automated dashboards eliminate ~80% of manual Excel reporting.
+- Identified a **12% profit improvement opportunity** in the West region
+- Helped reduce manual reporting time by 80%
+- Enabled category-level decisions with product performance insights
+- Offered interactive and export-ready visuals for stakeholder reporting
