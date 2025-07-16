@@ -30,7 +30,8 @@ An end-to-end Business Intelligence solution blending **SQL** and **Power BI**, 
 - Pinpoints a **12% profit improvement opportunity** in the West.
 - Includes monthly sales/proﬁt aggregates for trend analysis.
 
-➡️ See the full SQL script: [`sales_analysis_queries.sql`](./sales_analysis_queries.sql)
+➡️ See the full SQL script: [`Sales Analysis Queries.sql`](./Sales Analysis SQL Queries.sql)
+➡️ See the full SQL script with Output: [`Sales Analysis Queries with Output.sql`](./Sales Analysis SQL Queries with Output.sql)
 
 ---
 
@@ -44,16 +45,16 @@ An end-to-end Business Intelligence solution blending **SQL** and **Power BI**, 
 - **Drill-through** to deeper product or regional insights.
 - Clean layout, export-ready format for stakeholder reporting.
 
-➡️ View/download: [`Superstore_Sales_Analysis.pbix`](./Superstore_Sales_Analysis.pbix)
+➡️ View/download: [`Superstore Sales Analysis.pbix`](./End-to-End Sales Analytics Dashboard.pbix).
 
 ---
 
 ## 📸 Visual Previews
 
-![Dashboard Overview](images/dashboard_overview.png)  
+![Dashboard Overview](Images/Dashboard Overview.png)  
 _A comprehensive view of your key sales metrics and trends._
 
-![West Region Insights](images/west_region_insights.png)  
+![West Region Insights](Images/West Region Insights.png)  
 _Highlighted profit growth potential in the West._
 
 ---
